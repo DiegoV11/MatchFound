@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "77026235699",
+    "firebase_url": "https://matchfound-ef404-default-rtdb.firebaseio.com",
     "project_id": "matchfound-ef404",
     "storage_bucket": "matchfound-ef404.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "77026235699-8smbpe2cr91605qhq0vdes7kicf1sl2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.matchfound",
+            "certificate_hash": "a65e4b3e5ba3d9ea8592b6d58eaae36ebe4fc1ef"
+          }
+        },
         {
           "client_id": "77026235699-4d2rq4aqdf0e6sofav7ldepr7cb5r2vs.apps.googleusercontent.com",
           "client_type": 3
